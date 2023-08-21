@@ -1,19 +1,20 @@
 # 株式会社フラットウォーター
 
-### Hi there 👋
+## 会社名
 
-**flatwatersprint.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 株式会社フラットウォーター
+- 合同会社スプリント
 
-Here are some ideas to get you started:
+## 住所
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+郵便番号： 468-0026  
+愛知県名古屋市天白区土原1-203  
+
+## 連絡先
+
+電話番号: 090-3096-3712  
+ｅメール: flatwater2008@gmail.com  
+
 
 
 # お名前ドットコムでの設定
