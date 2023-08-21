@@ -1,6 +1,8 @@
+# 株式会社フラットウォーター
+
 ### Hi there 👋
 
-**flatwatersprint/flatwatersprint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**flatwatersprint.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
