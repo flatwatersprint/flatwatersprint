@@ -12,8 +12,8 @@
 
 ## 連絡先
 
-電話番号: 090-3096-3712  
-ｅメール: flatwater2008@gmail.com  
+電話番号: [090-3096-3712](tel:09030963712)  
+ｅメール: [flatwater2008@gmail.com](mailto:<flatwater2008@gmail.com>)  
 
 
 
